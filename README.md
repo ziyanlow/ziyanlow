@@ -1,6 +1,6 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <h2>👋 Hi, I'm Zi Yan!</h2>
+  <h1>👋 Hi, I'm Zi Yan!</h1>
 
   <p>
     🎓 Passionate about Artificial Intelligence, Machine Learning, and Data Engineering.<br>
@@ -8,7 +8,7 @@
     ⚙️ Experienced with Python, SQL, Linux, APIs, monitoring systems, and data analytics workflows.
   </p>
 
-  <h3>🚀 Current Focus</h3>
+  <h2>🚀 Current Focus</h2>
   <ul>
     <li>AI Engineering</li>
     <li>Monitoring Intelligence & Visual Analytics</li>
@@ -16,7 +16,7 @@
     <li>Data-Driven Systems</li>
   </ul>
 
-  <h3>🌱 Currently Learning</h3>
+  <h2>🌱 Currently Learning</h2>
   <ul>
     <li>Generative AI</li>
     <li>MLOps</li>
@@ -24,16 +24,16 @@
     <li>Advanced Monitoring & Observability Analytics</li>
   </ul>
 
-  <h3>🤝 Connect With Me</h3>
+  <h2>🤝 Connect With Me</h2>
   <ul>
     <li>💼 LinkedIn: <a href="https://linkedin.com/in/lowziyan" target="_blank">linkedin.com/in/lowziyan</a></li>
     <li>📧 Email: <a href="mailto:ziyan9228@gmail.com">ziyan9228@gmail.com</a></li>
   </ul>
 
-  <h3>😄 Pronouns: She/Her</h3>
+  <h2>😄 Pronouns: She/Her</h2>
 
-  <h3>
+  <h2>
     ⭐ Always open to collaboration, learning opportunities, and AI/Data Science projects.
-  </h3>
+  </h2>
 
 </div>
